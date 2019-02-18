@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CardView</string>
+    <string-array name="Year">
+        <item>-:SELECT YEAR:-</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="Branch">
+        <item>-:SELECT BRANCH:-</item>
+        <item>BCA</item>
+        <item>BPH</item>
+        <item>BSC</item>
+        <item>CE</item>
+        <item>CL</item>
+        <item>DCE</item>
+        <item>DCS</item>
+        <item>DIT</item>
+        <item>EC</item>
+        <item>EE</item>
+        <item>IT</item>
+        <item>ME</item>
+    </string-array>
+</resources>

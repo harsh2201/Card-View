@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "282490590732",
+    "firebase_url": "https://charusatvalentine.firebaseio.com",
+    "project_id": "charusatvalentine",
+    "storage_bucket": "charusatvalentine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282490590732:android:92f5af5034a8404e",
+        "android_client_info": {
+          "package_name": "com.charusat.valentine.charusatvalentine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282490590732-msd8ej5255lfbhj49b5n1rju3366ujcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAheuHXNVhODWEt5lUlkK5wu-jQFPRqfNs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282490590732:android:723806e9a752b489",
+        "android_client_info": {
+          "package_name": "com.example.minesh.cardview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282490590732-msd8ej5255lfbhj49b5n1rju3366ujcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAheuHXNVhODWEt5lUlkK5wu-jQFPRqfNs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
