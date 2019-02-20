@@ -55,7 +55,6 @@ public class MainActivity extends AppCompatActivity {
 
         root = FirebaseDatabase.getInstance().getReference();
 
-        startActivity(new Intent(MainActivity.this, CharusatVAnalytics.class));
         finish();
 
         slidr = Slidr.attach(this);
